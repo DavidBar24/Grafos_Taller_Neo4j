@@ -1,21 +1,21 @@
-idAfición;Nombre;Tipo
-1;Fútbol;Deporte
-2;Pintura;Arte
-3;Guitarra;Música
-4;Programación;Tecnología
-5;Baloncesto;Deporte
-6;Escultura;Arte
-7;Piano;Música
-8;Robótica;Tecnología
-9;Tenis;Deporte
-10;Fotografía;Arte
-11;Canto;Música
-12;Diseño gráfico;Tecnología
-13;Natación;Deporte
-14;Danza;Arte
-15;Composición musical;Música
-16;Inteligencia Artificial;Tecnología
-17;Atletismo;Deporte
-18;Dibujo;Arte
-19;Violín;Música
-20;Videojuegos;Tecnología
+idAficiÃ³n,Nombre,Tipo
+1,FÃºtbol,Deporte
+2,Pintura,Arte
+3,Guitarra,MÃºsica
+4,ProgramaciÃ³n,TecnologÃ­a
+5,Baloncesto,Deporte
+6,Escultura,Arte
+7,Piano,MÃºsica
+8,RobÃ³tica,TecnologÃ­a
+9,Tenis,Deporte
+10,FotografÃ­a,Arte
+11,Canto,MÃºsica
+12,DiseÃ±o grÃ¡fico,TecnologÃ­a
+13,NataciÃ³n,Deporte
+14,Danza,Arte
+15,ComposiciÃ³n musical,MÃºsica
+16,Inteligencia Artificial,TecnologÃ­a
+17,Atletismo,Deporte
+18,Dibujo,Arte
+19,ViolÃ­n,MÃºsica
+20,Videojuegos,TecnologÃ­a
