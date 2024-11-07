@@ -1,0 +1,21 @@
+idProducto;Nombre;Precio;Expedición;Cantidad
+1;Laptop HP;799.99;1/10/2024;50
+2;Smartphone Samsung;599.99;2/10/2024;120
+3;Auriculares Bose;129.99;3/10/2024;200
+4;Teclado Mecánico;89.99;4/10/2024;150
+5;"Monitor 24""";179.99;5/10/2024;75
+6;Reloj Garmin;229.99;6/10/2024;60
+7;Tablet Samsung;399.99;7/10/2024;90
+8;Mouse Logitech;49.99;8/10/2024;300
+9;Cámara DSLR Canon;849.99;9/10/2024;40
+10;Impresora Epson;159.99;10/10/2024;80
+11;Videojuego FIFA 24;59.99;11/10/2024;500
+12;"Monitor 27""";249.99;12/10/2024;65
+13;Silla Ergonómica;139.99;13/10/2024;110
+14;Cámaras de Seguridad;79.99;14/10/2024;180
+15;Proyector Epson;449.99;15/10/2024;30
+16;Router TP-Link;69.99;16/10/2024;250
+17;Auriculares Sony;99.99;17/10/2024;150
+18;Estación de Carga;19.99;18/10/2024;400
+19;Dispositivo Alexa;89.99;19/10/2024;230
+20;Cámara Web Logitech;49.99;20/10/2024;350
