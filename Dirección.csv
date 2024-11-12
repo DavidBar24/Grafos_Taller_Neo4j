@@ -1,4 +1,4 @@
-idDireccion,ubicación,barrio,código postal
+idDireccion,ubicacion,numero,barrio,codigoPostal
 1,Calle 23 #45,San Juan,11001
 2,Carrera 5 #89,El Prado,11002
 3,Calle 12 #22,Los Alpes,11003
